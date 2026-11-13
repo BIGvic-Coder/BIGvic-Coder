@@ -1,16 +1,49 @@
-## Hi there 👋
+# Victor Boluwatife Talabi
 
-<!--
-**BIGvic-Coder/BIGvic-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 
 
-Here are some ideas to get you started:
+I'm Victor, a Computer Science student at Brigham Young University-Idaho and a backend developer based in Nigeria. I build APIs and full-stack web apps, and I currently lead a development team as a project manager.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+-  I build backend systems with Node.js, NestJS and PostgreSQL
+- I manage a development team at Perpentry, assigning tasks and reviewing pull requests
+- I'm currently learning more about cloud deployment and mobile development with React Native
+-  My goal is to grow into a strong full-stack engineer and technical lead
+-  Ask me about REST APIs, databases and deploying web apps
+
+## Technologies and Tools
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+- **Proficient in:** JavaScript, TypeScript, Node.js, NestJS, PostgreSQL
+- **Also work with:** Next.js, React, Prisma, Tailwind CSS, Git, Render, Vercel
+- **Other skills:** API design, code review, team leadership, project planning
+
+## Projects and Work
+
+- **DammyRex Declutter** – A marketplace for a used household items business. Sellers submit items, the owner approves them, and buyers book inspections and chat on WhatsApp. Built with NestJS, PostgreSQL, Prisma, Cloudinary and Next.js, deployed on Render and Vercel. [https://dammyrex-declutter.vercel.app]
+- **Perpentry** – Team project where I work as project manager and backend developer, handling backend issues, task assignment and pull request reviews. [Repository](https://github.com/perpentry-ai/Perpentry)
+
+## GitHub Stats
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIGvic-Coder&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGvic-Coder&layout=compact&hide_border=true)
+
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/victor-talabi-93387a263/])
+
+Feel free to explore my repositories and reach out. Happy coding! 🚀
