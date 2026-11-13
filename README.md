@@ -46,4 +46,5 @@ I'm Victor, a Computer Science student at Brigham Young University-Idaho and a b
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/victor-talabi-93387a263/])
 
-Feel free to explore my repositories and reach out. Happy coding! 🚀
+Feel free to explore my repositories and reach out. Happy coding!
+
