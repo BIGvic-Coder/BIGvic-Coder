@@ -37,11 +37,11 @@ I'm Victor, a Computer Science student at Brigham Young University-Idaho and a b
 - **Perpentry** – Team project where I work as project manager and backend developer, handling backend issues, task assignment and pull request reviews. [Repository](https://github.com/perpentry-ai/Perpentry)
 
 ## GitHub Stats
+![Victor's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BIGvic-Coder&theme=default)
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIGvic-Coder&show_icons=true&hide_border=true)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BIGvic-Coder&theme=default)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGvic-Coder&layout=compact&hide_border=true)
-
+![GitHub streak](https://streak-stats.demolab.com?user=BIGvic-Coder)
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/victor-talabi-93387a263/])
